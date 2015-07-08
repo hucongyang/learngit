@@ -4,3 +4,4 @@ git has a mutable index called stage.
 git tracks changes of files.
 git commit -m "D" master
 git commit -m "E" master
+creating a new branch is quick.
